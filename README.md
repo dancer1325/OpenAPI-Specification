@@ -29,6 +29,6 @@
       * == ❌NOT describe ALL services❌
       * BUT support [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
-* [ALL OpenAPI Specification versions](https://spec.openapis.org/)
+* [ALL OpenAPI Specification versions](versions)
 * [documentation](https://github.com/dancer1325/OpenAPI-Documentation)
 * [OpenAPI implementations](IMPLEMENTATIONS.md)
